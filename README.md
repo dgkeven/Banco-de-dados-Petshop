@@ -1,5 +1,5 @@
 
-# Banco de dados de um Petshop 
+# Sistema Petshop 
 
 Projeto criado com Js e Nodejs
 
