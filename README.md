@@ -1,7 +1,7 @@
 
 # Sistema Petshop #
 
-Projeto criado com Js e Nodejs
+Projeto back-end criado com Nodejs
 
 Comandos:
 
