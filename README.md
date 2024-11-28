@@ -70,17 +70,12 @@ O sistema permite o gerenciamento de **Gatos** e **Serviços** com as seguintes 
    npm install
    ```
 
-4. Crie o arquivo `.env` para configurar sua variável `SECRET` para autenticação JWT:
-   ```env
-   SECRET=SuaChaveSecreta
-   ```
-
-5. Execute o servidor:
+4. Execute o servidor:
    ```bash
    npm start
    ```
 
-6. O servidor estará rodando em:  
+5. O servidor estará rodando em:  
    ```
    http://localhost:3306
    ```
