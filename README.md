@@ -57,7 +57,7 @@ O sistema permite o gerenciamento de **Gatos** e **Serviços** com as seguintes 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-petshop.git
+   git clone https://github.com/dgkeven/banco-de-dados-petshop.git
    ```
 
 2. Acesse a pasta do projeto:
